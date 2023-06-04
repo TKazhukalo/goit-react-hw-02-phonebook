@@ -8,4 +8,5 @@ export const SectionContainer=styled.section`
 export const Title=styled.h2`
     color:black;
     margin-bottom:20px;
+    font-size:26px;
 `

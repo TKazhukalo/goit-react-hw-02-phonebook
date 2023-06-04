@@ -5,6 +5,7 @@ export const ContactItem=styled.li`
     justify-content: space-between;
     width: 400px;
     margin-bottom: 10px;
+    font-size:20px;
 `
 export const Button=styled.button`
     width: 100px;
@@ -12,6 +13,9 @@ export const Button=styled.button`
     border: none;
     cursor: pointer;
     border-radius: 8px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;  
+    font-size:14px;
     background-color:#08984d;
     color:#fff;
     &:hover{
